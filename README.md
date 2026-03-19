@@ -24,7 +24,10 @@ This project focuses on redesigning key interfaces within a university system, i
 - Simplified student course registration experience  
 - Improved administrative task workflows and system efficiency  
 - Enhanced advisor interfaces for better student tracking and decision-making  
-- Increased accessibility and clarity across all user interfaces  
+- Increased accessibility and clarity across all user interfaces
+
+## Jira Backlog
+[View Jira] https://uw-team-tf4r2ycq.atlassian.net/jira/software/projects/T1I3W2/boards/2/backlog?epics=visible&atlOrigin=eyJpIjoiNzVjNmRiNjUwYTE3NDc2ZWFjYzMzMWUxNjkzNzM5NzYiLCJwIjoiaiJ9
 
 ## What I Learned
 - Designing for multiple stakeholders with different needs  
